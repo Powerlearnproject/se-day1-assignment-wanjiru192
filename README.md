@@ -46,8 +46,12 @@ acceptance:formal tests that verify if a system satisfies business requirements
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-
 Define prompt engineering and discuss its importance in interacting with AI models.
+it is the process where you guide generative AI solutions to generate desired outputs
+improved user experience:makes sure that the users gain relevant results inthe first prompt.
 
-
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the 
+improved prompt is more effective.
+a drawm picture of a young woman with long brown hair wearing a red jacket and blue jeans standing in a park on a sunny day with trees and flowers inthe background.
+clarity;specifies what is being asked for rather than being just a person.
+specific details;describing the womans appearance and the setting (park,trees,flowers)gives clear guidance onthe image to be created
